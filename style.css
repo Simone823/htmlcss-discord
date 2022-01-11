@@ -115,3 +115,34 @@ header{
     color: white;
 }
 
+.wrapper-section-1{
+    width: 1300px;
+    margin: 100px auto;
+    /* border: 1px solid red; */
+    margin-top: 100px;
+}
+
+.wrapper-section-1 .img-card{
+    width: 830px;
+    /* border: 1px dashed blue; */
+    float: left;
+}
+
+.img-card img{
+    width: 85%;
+    display: block;
+}
+
+.wrapper-section-1 .img-description{
+    width: calc(100% - 830px);
+    /* border: 1px dashed blue; */
+    float: left;
+    margin-top: 30px;
+    padding: 0 10px;
+}
+
+.img-description h2{
+    font-size: 50px;
+    margin-bottom: 30px;
+}
+
