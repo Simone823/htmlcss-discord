@@ -199,6 +199,8 @@ footer{
     /* border: 2px solid orange; */
     margin: 0 auto;
     padding: 40px 10px;
+    border-bottom: 1px solid #434f73;
+    margin-bottom: 10px;
 }
 
 .footer_wrapper .col-1{
@@ -264,4 +266,37 @@ footer{
     text-decoration: none;
     color: white;
     font-size: 14px;
+}
+
+.registered{
+    width: 1300px;
+    /* border: 1px solid green; */
+    margin: 0 auto;
+    padding: 20px 0;
+    margin-bottom: 75px;
+}
+
+.registered .logo{
+    width: 105px;
+    float: left;
+}
+
+.registered .logo img{
+    width: 100%;
+    display: block;
+}
+
+.registered button{
+    border: none;
+    background: none;
+    float: right;
+}
+
+.registered button a{
+    text-decoration: none;
+    color: white;
+    background-color: #8ea1e1;
+    border-radius: 25px;
+    padding: 10px 15px;
+    font-size: 16px;
 }
