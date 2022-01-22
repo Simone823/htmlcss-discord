@@ -211,6 +211,12 @@ header{
     padding-right: 5px;
 }
 
+.section-4-gray{
+    position: relative;
+    margin-top: 150px;
+    background-color: #F6F6F6;
+}
+
 footer{
     width: 100%;
     background-color: #23272a;
