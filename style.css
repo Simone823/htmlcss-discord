@@ -39,6 +39,11 @@
     text-decoration: underline;
 }
 
+.col-1 .icon_social li a i:hover{
+    transform: rotate(360deg);
+    transition: transform linear 600ms;
+}
+
 /* --------------------------------- */
 
 header{
