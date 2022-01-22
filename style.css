@@ -13,6 +13,20 @@
     clear: both;
 }
 
+/* Hover */
+.menu-header .menu li:hover a{
+    text-decoration: underline;
+}
+
+.button-header:hover a{
+    text-decoration: underline;
+}
+
+.description-header #btn-header-white:hover,
+.description-header #btn-header-black:hover{
+    text-decoration: underline;
+}
+
 /* --------------------------------- */
 
 header{
